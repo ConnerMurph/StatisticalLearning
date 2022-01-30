@@ -1,4 +1,4 @@
-"Sample, BulkDensity, Porosity, LogPermeability, InsolubleResidue, TotalCarbonate, GrainLengthA-Axis, SDA-AxisLength, GrainLengthB-Axis, SDB-AxisLength, Calcite, Dolomite"
+"Sample BulkDensity Porosity LogPermeability InsolubleResidue TotalCarbonate GrainLengthA-Axis SDA-AxisLength GrainLengthB-Axis SDB-AxisLength Calcite Dolomite"
        1  2.6975    0.83 -1.2218    4.43   95.57   11.88   1.563   12.19   1.379   74.44   21.08
        1  2.6415    0.59 -1.6989    7.19   92.81   10.31   1.410   10.85   1.361   85.80    7.00
        1  2.6457    0.67 -1.6989    2.17   97.83   12.51   1.690   12.92   1.759   93.71    4.13
